@@ -1,16 +1,16 @@
 ---
 layout: post
 comments: true
-title:  "HRI research featured by UW Madison"
+title:  "HRI research featured by College of Engineering, UW-Madison"
 date:   2024-03-10 10:10:54 -0500
 mathjax: false
-image: 
+image: /assets/postimgs/240202pu/thri-hoko.png
 ---
 
-NeuroErgonomics Lab would like to introduce its newest members: <a href="https://www.linkedin.com/in/umair-iqbal-03b2464a/">Dr. Umair Iqbal</a>, <a href="https://www.linkedin.com/in/jeevan-jayasuriya-349a952a5/">Jeevan Jayasuriya</a>, <a href="https://www.linkedin.com/in/ronakmohanty/">Dr. Ronak Mohanty</a>, and <a href="https://www.linkedin.com/in/kieran-nichols-phd-24134479/">Dr. Kieran Nichols</a>, (order in picture). Dr. Iqbal aims to research fatigue assessment and management, focusing on offshore worker fatigue. Jeevan J. will evaluate the interactive effect of fatigue and altered gravity on sensorimotor and cognitive functions. Dr. Mohanty will contribute to the development of novel multisensory interaction in Extended Reality. Dr. Nichols will focus on evaluating cognitive and motor performance using sensing, cueing, and electrical stimulations. We are excited to build our team as we expand our research in Madison, WI. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/people/new_lab_members.jpeg" class="img-responsive" width="100%" style="float: center"/>
+We are excited to share that our recent research on [Brain–Behavior Relationships of Trust in Shared Space Human–Robot Collaboration](https://dl.acm.org/doi/full/10.1145/3632149) has been featured by the College of Engineering, University of Wisconsin-Madison. The paper is published at the ACM Transactions on Human-Robot Interaction (THRI). The authors include [Dr. Sarah Hopko](https://www.linkedin.com/in/hopko/), [Dr. Yinsu Zhang](https://www.linkedin.com/in/yinsuzhang/), [Aakash Yadav](https://nimrobotics.com), [Dr. Prabhakar R. Pagilla](https://engineering.tamu.edu/mechanical/profiles/pagilla-prabhakar.html), and [Dr. Ranjana K. Mehta](https://directory.engr.wisc.edu/ie/Faculty/Mehta_Ranjana/).
 
-<br>
-<br>
+The news feature can be accessed at [https://engineering.wisc.edu/news/looking-into-the-brain-through-the-eyes-to-uncover-sex-differences-in-human-robot-collaboration](https://engineering.wisc.edu/news/looking-into-the-brain-through-the-eyes-to-uncover-sex-differences-in-human-robot-collaboration)
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/240202pu/thri-hoko.png" class="img-responsive" width="100%" style="float: center"/>
 

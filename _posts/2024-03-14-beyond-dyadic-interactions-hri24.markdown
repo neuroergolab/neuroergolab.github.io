@@ -4,10 +4,10 @@ comments: true
 title:  "HRI 2024: Beyond Dyadic Interactions: Assessing Trust Networks in Multi-Human-Robot Teams"
 date:   2024-03-14 06:10:54 -0500
 mathjax: false
-image: /assets/postimgs/240202pu/thri-hoko.png
+image: /assets/postimgs/240314be/beyond.jpeg
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/240202pu/thri-hoko.png" class="img-responsive" width="100%" style="float: center"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/240314be/beyond.jpeg" class="img-responsive" width="100%" style="float: center"/>
 
 <a href="https://www.linkedin.com/in/nimrobotics/">Aakash Yadav</a> from the [Neuroergonomics Lab](https://neuroergolab.org) at the University of Wisconsin-Madison, Madison, WI, USA, presented their work on "Beyond Dyadic Interactions: Assessing Trust Networks in Multi-Human-Robot Teams" at the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024). The paper was co-authored with <a href="https://directory.engr.wisc.edu/ie/Faculty/Mehta_Ranjana/">Dr. Ranjana K. Mehta</a>.
 
@@ -20,9 +20,9 @@ Many HRI applications (such as in search and rescue; SAR) require multiple human
 
 ## Video
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/r0TCGM8zg7Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="300px" src="https://www.youtube.com/embed/r0TCGM8zg7Q" frameborder="0" allowfullscreen></iframe>
 
 
 ## Poster
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/240314be/hri24_byond_dyadic_inter.pdf" width="100%" height="500px"></iframe>
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/240314be/hri24_beyond_dyadic_inter.pdf" width="100%" height="500px"></iframe>
