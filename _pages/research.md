@@ -49,7 +49,7 @@ for (i = 0; i < coll.length; i++) {
 </script>
 
 # Research
-
+<!-- https://www.w3schools.com/howto/howto_js_collapsible.asp -->
 <!-- <button type="button" class="collapsible">Open Collapsible</button>
 <div class="content">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
