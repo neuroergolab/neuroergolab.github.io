@@ -73,7 +73,7 @@ She is the recipient of:
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    <a href="https://www.linkedin.com/in/tiashranamukherjee/">Tiash Rana Mukherjee</a> has a B.Tech Degree in Production Engineering from the National Institute of Technology in Agartala, India. Her research interests lie in the intersection of Mechanical Design and Cognitive Psychology. She is aiming for an Applied Research career in the Industry.
+    <a href="https://sites.google.com/tamu.edu/tiash-rm">Tiash Rana Mukherjee</a> has a B.Tech Degree in Production Engineering from the National Institute of Technology Agartala, India. She works on evaluating human-machine interaction to understand the cognitive/physical impacts of new or existing interventions and how they affect the user in the loop. Her research interests are user perception, cognitive workload, decision-making, risk-taking, adaptation over time, and user-centric design. 
   </p>
 </div>
 </div>
