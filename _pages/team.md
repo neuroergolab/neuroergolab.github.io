@@ -143,6 +143,19 @@ She is the recipient of:
 
 <!-- ## Masters Students -->
 
+## Undergraduate Students
+
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/aarav.jpeg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/aarav-gupta-076596283/">Aarav Gupta</a> is an undergraduate student at the University of Wisconsin-Madison pursuing a dual degree in Computer Science and Data Science along with a minor in Economic Analytics. His research interests include general A.I, machine learning, data modeling, and human factors. In his free time he enjoys running, listening to music, traveling, and hiking.
+  </p>
+</div>
+</div>
+
 
 
 <!-- ## Staff -->
