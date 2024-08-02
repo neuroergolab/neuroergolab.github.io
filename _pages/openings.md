@@ -54,7 +54,7 @@ We are seeking a motivated and talented EE/CS student intern to join our team at
 
 ## Postdoctoral Researcher
 
-One postdoc opportunities in human states predictions (e.g., stress, learning, fatigue) and closed-loop technological mitigations in controlled and field environments using wearable neuro/physiological/behavioral sensors with the [NeuroergoLab](https://neuroergolab.org/) at the University of Wisconsin-Madison.
+One postdoc opportunity in human state predictions (e.g., stress, learning, fatigue) in field environments using wearable neuro/physiological/behavioral sensors with the [NeuroergoLab](https://neuroergolab.org/), Department of Industrial and Systems Engineering, University of Wisconsin-Madison.  
 
 **Position**: Post-doctoral Fellow
 
@@ -62,15 +62,11 @@ One postdoc opportunities in human states predictions (e.g., stress, learning, f
 
 **Lab**: NeuroErgonomics Lab (Director: Ranjana Mehta, PhD)
 
-The NeuroErgonomics Lab in the Department of Industrial and Systems Engineering at Texas A&M University is seeking **one post-doctoral fellows** with strong backgrounds in human factors and ergonomics, cognitive neuroscience, HCI, or neural engineering to lead one of two extramurally funded research projects:
-
-1) Human states predictions (e.g., stress, learning, fatigue) and closed-loop technological mitigations in controlled and field environments using wearable neuro/physiological/behavioral sensors; and
-
-2) Multimodal brain-behavior mappings of human-autonomy teaming across increasing contextual complexities. 
+[NeuroergoLab](https://neuroergolab.org/) is seeking one post-doctoral fellow with a strong background in human factors and ergonomics, psychology, physiology, or CS (HCI) to lead our research portfolio on fatigue risk management in operational settings using wearables, interfaces, and behavior analytics.
 
 **Qualifications:**
 
-* Interested candidates should have obtained a Ph.D. by the start date **(the position can start in Spring 2024)**.
+* Interested candidates should have obtained a Ph.D. by the start date
 * Knowledge of human factors theories and assessment methods (performance, physiological, and subjective assessments)
 * Knowledge and experience in developing/applying computational techniques to analyze bio-behavioral data (e.g., neural, physiological, movement, or eye tracking)
 * Excellent human subjects’ experimentation skills
