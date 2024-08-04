@@ -156,6 +156,17 @@ She is the recipient of:
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/akilan.jpg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/akilan-rammohan-950818219/">Akilan Rammohan</a> is a junior at UW-Madison pursuing a double major in Computer Science and Data Science. He joined the NeuroErgo Lab in May 2024. His academic interests include machine learning, VR development, and human factors. In his free time he enjoys playing tennis, lifting weights, cooking, and playing the New York Times daily games.
+  </p>
+</div>
+</div>
+
 
 
 <!-- ## Staff -->
