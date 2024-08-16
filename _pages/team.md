@@ -100,6 +100,17 @@ She is the recipient of:
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/yuxin.jpeg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    Yuxin Cai has a BEng in Industrial Engineering from the Tsinghua University. Her reseach interests are in human factors, neuroergonomics, cognition and mental workload. She loves photography in her free time.
+  </p>
+</div>
+</div>
+
 ## Research Scientists
 
 <div class="row">
