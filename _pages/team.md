@@ -95,7 +95,7 @@ She is the recipient of:
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    Jeevan Jayasuriya holds a BS in Mechatronics Engineering from the Open University of Sri Lanka, a BS in Physics from the University of Sri Jayewardenepura, and an MS in Mechanical Engineering from Clarkson University. His research interests include assistive device design, neuroergonomics, control systems, robotics, and machine learning.
+    <a href="https://www.linkedin.com/in/jeevan-jayasuriya-349a952a5/">Jeevan Jayasuriya</a> holds a BS in Mechatronics Engineering from the Open University of Sri Lanka, a BS in Physics from the University of Sri Jayewardenepura, and an MS in Mechanical Engineering from Clarkson University. His research interests include assistive device design, neuroergonomics, control systems, robotics, and machine learning.
   </p>
 </div>
 </div>
@@ -117,7 +117,7 @@ She is the recipient of:
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    Yulim Kim has a BA in Quantitative Risk Management and an MS in Industrial Engineering from Yonsei University, South Korea. Her research interests span human factors, human-AI interaction, robotics, cognition, and neuroergonomics. In her free time, she enjoys walking, listening to music, and traveling.
+    <a href="https://www.linkedin.com/in/yulim-kim-17952930a/">Yulim Kim</a> has a BA in Quantitative Risk Management and an MS in Industrial Engineering from Yonsei University, South Korea. Her research interests span human factors, human-AI interaction, robotics, cognition, and neuroergonomics. In her free time, she enjoys walking, listening to music, and traveling.
   </p>
 </div>
 </div>
