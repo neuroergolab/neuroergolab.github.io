@@ -4,16 +4,13 @@ comments: true
 title:  "Welcome New PhD Students Yulim and Yuxin"
 date:   2024-08-21 23:10:54 -0500
 mathjax: false
-image: /assets/postimgs/240731aa/aakash-banner.jpg
+image: /assets/postimgs/240822we/yuxin_yulim.png
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/240731aa/aakash-banner.jpg"
-class="img-responsive" width="100%" style="float: center"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/240822we/yuxin_yulim.png" class="img-responsive" width="100%" style="float: center"/>
 
-We are thrilled to announce that <a href="https://nimrobotics.com/">Aakash Yadav</a> from the [Neuroergonomics Lab](https://neuroergolab.org) at the University of Wisconsin-Madison, Madison, WI, USA, has been awarded the prestigious Antoinette Derjani-Bayeh Scholarship for the 2024-2025 academic year by the UW-Madison College of Engineering.
+The [Neuroergonomics Lab](https://neuroergolab.org) at the University of Wisconsin-Madison, Madison, WI, USA, welcomes two new PhD students, Yulim Kim and Yuxin Cai.
 
-The Antoinette Derjani-Bayeh Scholarship is awarded to outstanding students in the field of Human Factors & Ergonomics. It was established in memory of Antoinette "Tony" Derjani-Bayeh, a passionate advocate for women and underrepresented groups in engineering. Tony was known for her belief that the engineering community could solve many of today's societal problems.
+Yuxin Cai has a BEng in Industrial Engineering from the Tsinghua University. Her reseach interests are in human factors, neuroergonomics, cognition and mental workload. She loves photography in her free time.
 
-Aakash's research focuses on human factors and multi-human-robot teaming. Their work explores how we can effectively integrate robots into society to improve human life and safety. This aligns perfectly with Tony Derjani-Bayeh's vision of using engineering to address societal challenges.
-
-This scholarship not only recognizes Aakash's exceptional academic performance but also provides crucial support for their continued research. It will enable him to further their studies in human-robot interaction and contribute to the field's advancement.
+<a href="https://www.linkedin.com/in/yulim-kim-17952930a/">Yulim Kim</a> has a BA in Quantitative Risk Management and an MS in Industrial Engineering from Yonsei University, South Korea. Her research interests span human factors, human-AI interaction, robotics, cognition, and neuroergonomics. In her free time, she enjoys walking, listening to music, and traveling.
