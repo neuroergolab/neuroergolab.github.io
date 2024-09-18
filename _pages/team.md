@@ -161,6 +161,18 @@ She is the recipient of:
 </div>
 </div>
 
+## Graduate Interns
+
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/lide.png" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/lidsu/">Lide Su</a> is a Master's student in Computer Engineering at Texas A&M University, with a strong background in computer science and engineering. Lide graduated with a Bachelor's degree in Computer Engineering from Texas A&M. His research focuses on modeling fatigue development using machine learning, particularly analyzing physiological data and breath samples. Lide is skilled in both back-end and front-end development and has a keen interest in data analysis, user engagement strategies, and innovative software solutions.
+  </p>
+</div>
+</div>
 
 
 <!-- ## Masters Students -->
