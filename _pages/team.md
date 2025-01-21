@@ -122,6 +122,17 @@ She is the recipient of:
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/rob.jpg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/rob-spenceley-87570a232/">Rob Spenceley</a> has a BS in Psychology with a Business minor from Colorado State University. His research interests include human-automation interaction/teaming, neuroergonomics, cognitive workload, display design, & human-robot interaction.
+  </p>
+</div>
+</div>
+
 ## Research Scientists
 
 <div class="row">
