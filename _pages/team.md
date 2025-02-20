@@ -137,22 +137,22 @@ She is the recipient of:
 
 <div class="row">
 <div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/nichols.jpg" class="img-responsive" width="100%" style="float: center"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/mohanty.jpg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    <a href="https://kieran-nichols.github.io/">Kieran Nichols</a> has a B.Sc. in Kinesiology from Pennsylvania State University, M.Scs. in Kinesiology and Mechanical Engineering from University of Wisconsin-Madison, and recently graduated with his Ph.D. in Mechanical Engineering from UW-Madison. His research interests include biomechanics, robotics, mechatronics, neuroergonomics, wearables, and human factors. His research aims to evaluate and improve cognitive and motor performance with user-centered feedback systems using sensing, cueing, and electrical stimulations. He enjoys gymnastics, cooking, and water activities, and is originally from Trinidad and Tobago.
+    <a href="https://www.linkedin.com/in/ronakmohanty/">Dr. Ronak R. Mohanty</a> is a Research Scientist in the Department of Industrial and Systems Engineering at the University of Wisconsin-Madison. Specializing in Human-Computer Interaction and Applied Perception, he applies human-centric design principles, contributing to the development of innovative multisensory experiences in the Extended Reality (XR) technology space. His commitment to inclusivity and accessibility is evident in diverse domains, including health technology with a focus on haptic rehabilitation, medical applications like orthopedic surgery training, and advancements in XR learning. Dr. Mohanty played a significant role in the research and development of haptics-based wearable devices at Meta Reality Labs, a leader in XR technology. His contributions encompass cutting-edge human augmentation technologies and continues to shape technological advancements, reflecting a commitment to excellence in both academic and industrial realms.
   </p>
 </div>
 </div>
 
 <div class="row">
 <div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/mohanty.jpg" class="img-responsive" width="100%" style="float: center"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/sanghvi.jpg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    <a href="https://www.linkedin.com/in/ronakmohanty/">Dr. Ronak R. Mohanty</a> is a Research Scientist in the Department of Industrial and Systems Engineering at the University of Wisconsin-Madison. Specializing in Human-Computer Interaction and Applied Perception, he applies human-centric design principles, contributing to the development of innovative multisensory experiences in the Extended Reality (XR) technology space. His commitment to inclusivity and accessibility is evident in diverse domains, including health technology with a focus on haptic rehabilitation, medical applications like orthopedic surgery training, and advancements in XR learning. Dr. Mohanty played a significant role in the research and development of haptics-based wearable devices at Meta Reality Labs, a leader in XR technology. His contributions encompass cutting-edge human augmentation technologies and continues to shape technological advancements, reflecting a commitment to excellence in both academic and industrial realms.
+    <a href="https://www.linkedin.com/in/ashanghavi/">Aditya Shanghavi</a> holds a PhD in Biomedical Engineering and an MSc in Mechanical Engineering from Purdue University. His research background is in integrating multi-modal sensor data with AI-driven predictive modeling to advance health diagnostics and decision-support systems. With industry experience as a Project Lead at US Medical Innovations, Dr. Shanghavi spearheaded the development of cutting-edge robotic surgical systems and medical devices, ensuring regulatory compliance and FDA approval. His interdisciplinary expertise allows him to bridge the gap between biomedical innovation, engineering, and applied research, creating scalable, data-driven solutions for critical health and safety challenges. Outside of work, he enjoys traveling, reading, hiking, and playing soccer.
   </p>
 </div>
 </div>
@@ -172,19 +172,7 @@ She is the recipient of:
 </div>
 </div>
 
-## Graduate Interns
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/lide.png" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/lidsu/">Lide Su</a> is a Master's student in Computer Engineering at Texas A&M University, with a strong background in computer science and engineering. Lide graduated with a Bachelor's degree in Computer Engineering from Texas A&M. His research focuses on modeling fatigue development using machine learning, particularly analyzing physiological data and breath samples. Lide is skilled in both back-end and front-end development and has a keen interest in data analysis, user engagement strategies, and innovative software solutions.
-  </p>
-</div>
-</div>
-
+<!-- ## Graduate Interns -->
 
 <!-- ## Masters Students -->
 
@@ -237,6 +225,11 @@ She is the recipient of:
 
 <h3>Visiting Scholars</h3>
 {% for member in site.data.alumni_visitors %}
+{{ member.name }}, {{ member.info }}, {{ member.time }}
+{% endfor %}
+
+<h3>Interns</h3>
+{% for member in site.data.alumni_interns %}
 {{ member.name }}, {{ member.info }}, {{ member.time }}
 {% endfor %}
 
