@@ -137,17 +137,6 @@ She is the recipient of:
 
 <div class="row">
 <div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/mohanty.jpg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/ronakmohanty/">Dr. Ronak R. Mohanty</a> is a Research Scientist in the Department of Industrial and Systems Engineering at the University of Wisconsin-Madison. Specializing in Human-Computer Interaction and Applied Perception, he applies human-centric design principles, contributing to the development of innovative multisensory experiences in the Extended Reality (XR) technology space. His commitment to inclusivity and accessibility is evident in diverse domains, including health technology with a focus on haptic rehabilitation, medical applications like orthopedic surgery training, and advancements in XR learning. Dr. Mohanty played a significant role in the research and development of haptics-based wearable devices at Meta Reality Labs, a leader in XR technology. His contributions encompass cutting-edge human augmentation technologies and continues to shape technological advancements, reflecting a commitment to excellence in both academic and industrial realms.
-  </p>
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/sanghvi.jpg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
@@ -157,20 +146,7 @@ She is the recipient of:
 </div>
 </div>
 
-## Postdoctoral Research Associates
-
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/umair.jpg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/umair-iqbal-03b2464a/">Umair</a> is a postdoctoral research associate in the Department of Industrial and Systems Engineering at the University of Wisconsin-Madison. His research at UW-Madison encompasses the field of fatigue assessment and management with a special focus on offshore industry worker fatigue. Prior to his tenure at UW-Madison, he held the position of a Post Doctoral Fellow in the Department of Chemical Engineering at IIT Madras.During this period, his research focused on evaluation and enhancement of human-machine interface (HMI) design using eye-tracking technology. He holds a Ph.D. in Chemical Engineering from the Indian Institute of Technology Gandhinagar. He has obtained his M. Tech from IIT Gandhinagar and a B. Tech in Chemical Engineering from the National Institute of Technology Srinagar. Umair has a rich research experience in the field of human factors and process safety. His research thrust has been on the performance and reliability of control room operators using cognitive engineering approaches.  His work in process safety predominantly focuses on human error. He has extensively employed cutting-edge techniques such as electroencephalography (EEG) and eye-tracking to understand the cognitive aspects of human performance. Umair also loves to play badminton and chess.
-
-  </p>
-</div>
-</div>
+<!-- ## Postdoctoral Research Associates -->
 
 <!-- ## Graduate Interns -->
 
@@ -180,26 +156,14 @@ She is the recipient of:
 
 <div class="row">
 <div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/aarav.jpeg" class="img-responsive" width="100%" style="float: center"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/ruan.jpeg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    <a href="https://www.linkedin.com/in/aarav-gupta-076596283/">Aarav Gupta</a> is an undergraduate student at the University of Wisconsin-Madison pursuing a dual degree in Computer Science and Data Science along with a minor in Economic Analytics. His research interests include general A.I, machine learning, data modeling, and human factors. In his free time he enjoys running, listening to music, traveling, and hiking.
+    <a href="https://www.linkedin.com/in/wenqing-ruan-a85b472b6/">Wenqing Ruan</a> is a senior undergraduate student at the University of Wisconsin–Madison pursuing a major in Computer Sciences with a minor in Mathematics. She joined the Neuroergo Lab in February 2025. Her research interests include human factors, human-computer interaction, general A.I., and data modeling. Outside of academics, she enjoys drawing and cooking.
   </p>
 </div>
 </div>
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/akilan.jpg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/akilan-rammohan-950818219/">Akilan Rammohan</a> is a junior at UW-Madison pursuing a double major in Computer Science and Data Science. He joined the NeuroErgo Lab in May 2024. His academic interests include machine learning, VR development, and human factors. In his free time he enjoys playing tennis, lifting weights, cooking, and playing the New York Times daily games.
-  </p>
-</div>
-</div>
-
 
 
 <!-- ## Staff -->
