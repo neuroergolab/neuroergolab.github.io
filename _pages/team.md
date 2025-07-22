@@ -165,6 +165,17 @@ She is the recipient of:
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/wchen.jpeg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/wanyi-chen-a058b6317/">Wanyi Chen</a> is a senior undergraduate student in Computer Sciences at the University of Wisconsin-Madison. She joined the lab in September 2024. Her research interests encompass human-centered artificial intelligence, computational neuroscience, AI applications in medicine, and machine learning.
+  </p>
+</div>
+</div>
+
 
 <!-- ## Staff -->
 
