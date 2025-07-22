@@ -152,6 +152,19 @@ She is the recipient of:
 
 <!-- ## Masters Students -->
 
+## Interns
+
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/jqu.jpg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/jianhui-qu-8085b7244/">Jianhui Qu</a> is a senior undergraduate at Tsinghua University, pursuing a Bachelor’s degree in Economics with a minor in Industrial Engineering. He joined the NeuroErgo Lab in June 2025 as a visiting student. His research interests include human factors and human-computer interaction, especially regarding how technology may enhance human performance in high-stakes environments.
+  </p>
+</div>
+</div>
+
 ## Undergraduate Students
 
 <div class="row">
