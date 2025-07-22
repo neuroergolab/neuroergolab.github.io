@@ -106,7 +106,7 @@ She is the recipient of:
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    Yuxin Cai has a BEng in Industrial Engineering from the Tsinghua University. Her reseach interests are in human factors, neuroergonomics, cognition and mental workload. She loves photography in her free time.
+    <a href="https://www.linkedin.com/in/yuxin-cai-072b44293/">Yuxin Cai</a> has a BEng in Industrial Engineering from the Tsinghua University. Her research interests are in human factors, neuroergonomics, cognition and mental workload. She loves photography in her free time.
   </p>
 </div>
 </div>
