@@ -189,6 +189,17 @@ She is the recipient of:
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/pater.jpeg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/karol1na-pater/">Karolina Pater</a> is a junior undergraduate student in Industrial & Systems Engineering at the University of Wisconsin-Madison. She joined the lab in August 2024. Her research interests encompass process design and improvement, supply chain optimization, and the integration of machine learning and AI technologies in human-centered systems. She is particularly interested in simulation and modeling, ergonomics and workplace design, systems integration, and production planning.
+  </p>
+</div>
+</div>
+
 
 <!-- ## Staff -->
 
