@@ -11,5 +11,5 @@ image: /assets/postimgs/240822we/rob.png
 
 The [Neuroergonomics Lab](https://neuroergolab.org) at the University of Wisconsin-Madison, Madison, WI, USA, welcomes one new PhD student, Rob Spenceley.
 
-<a href="www.linkedin.com/in/spenceleyy">Rob Spenceley/a> has a BS in Cognitive Psychology and Cogntive Neuroscience from Colorado State University, USA. His research interests span human factors, human-robot interactions, and human embodied automation interaction. 
+<a href="www.linkedin.com/in/spenceleyy">Rob Spenceley</a> has a BS in Cognitive Psychology and Cogntive Neuroscience from Colorado State University, USA. His research interests span human factors, human-robot interactions, and human embodied automation interaction. 
 
