@@ -42,7 +42,10 @@ EEG Theta Power Varies across Roles in Mixed Human-Robot Teams
 <a href="https://www.linkedin.com/in/wanyi-chen-a058b6317/">Wanyi Chen</a> & <a href="https://www.linkedin.com/in/wenqing-ruan-a85b472b6/">Wenqing Ruan</a> <br>
 Assessing Leading LLMs for Realism in AI NPCs for XR-Based De-Escalation Training
 
-<a href="https://www.linkedin.com/in/wanyi-chen-a058b6317/">Wanyi Chen</a>
+<a href="https://www.linkedin.com/in/wanyi-chen-a058b6317/">Wanyi Chen</a> <br>
 AI-Xpert: An AI-Driven Extended Reality Training Platform - **Lecture**
 
+<a href="https://www.linkedin.com/in/adamreaston/">Adam Easton</a> <br>
+Interactive Effects of Vestibular Impairment and Fatigue on Fine Motor Coordination in Spaceflight Analogs - **Lecture** - **Best Student Work, Aerospace**
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/HFES_ASPIRE/NeuroErgoHFES25.png" class="img-responsive" width="99%" style="float: center"/>
