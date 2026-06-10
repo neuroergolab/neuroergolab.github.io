@@ -11,4 +11,4 @@ Congratulations to [Aakash Yadav](https://www.linkedin.com/in/nimrobotics/), who
 
 His work extended well beyond the dissertation, spanning an internship at the Honda Research Institute, disaster robotics fieldwork, machine learning for real-time, trust-aware robotics, and closed-loop systems for fatigue risk management. The entire [NeuroErgonomics Lab](https://www.linkedin.com/company/neuroergonomics-lab/) is proud of Aakash's contributions to human-centered robotics and AI system design, and we look forward to seeing where his research goes next.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/260610aa/aakash-phd.png" class="img-responsive" width="100%" style="float: center"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/260610aa/aakash-defense.jpg" class="img-responsive" width="100%" style="float: center"/>
