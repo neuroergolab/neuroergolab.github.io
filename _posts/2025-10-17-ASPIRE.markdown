@@ -1,0 +1,48 @@
+---
+layout: post
+comments: true
+title:  "Neuroergonomics Lab at the 2025 HFES ASPIRE Conference"
+date:   2025-10-17 23:10:54 -0500
+mathjax: false
+image: /assets/postimgs/RobT2D/HeroShortRob.jpeg
+---
+
+The 2025 HFES ASPIRE conference was a huge success for the <a href="https://neuroergolab.org">Neuroergonomics Lab</a> with presentations from: 
+
+**PhD Students:** <br>
+<a href="https://www.linkedin.com/in/yuxin-cai-072b44293/">Yuxin Cai</a> <br>
+Evidence-informed Fatigue Risk Management Strategies for Offshore Shiftwork: A Systematic Review and Delphi Consensus Study - **Lecture** <br>
+Alignment of Fatigue Risk Management Policies with Fatigue Outcomes in Offshore Shiftwork
+
+<a href="https://www.linkedin.com/in/tiashranamukherjee/">Tiash Mukherjee</a> <br>
+Assessing the impact of differential sources of fatigue on risk-taking behavior - **Lecture** <br>
+
+<a href="https://www.linkedin.com/in/jeevanjayasuriya/">Jeevan Jayasuriya</a><br>
+Neural Dynamics of Sensorimotor Functions in Spaceflight Analogs - **Lecture**
+
+
+<a href="https://www.linkedin.com/in/nimrobotics/">Aakash Yadav</a> <br>
+Machine Learning Considerations for Trust Predictions in HRI: Examination across Labels, Sex Differences, and Sensor Modalities - **Lecture** <br>
+Nonlinear Human-Robot Team Dynamics: A Physiological Synchrony Examination - **Lecture** <br>
+
+<a href="https://www.linkedin.com/in/yinsuzhang/">Yinsu Zhang</a> <br>
+Explaining Trust and Proactive Takeovers in Automated Driving: A Machine Learning Analysis with Neural, and Gaze Metrics - **Lecture** <br>
+
+
+<a href="https://www.linkedin.com/in/david-nartey/">David Nartey</a> <br>
+Determination of Occupational Fatigue Detection Threshold Using Naturalistic Fatigue Datasets <br>
+A Fatigue Risk Management System Dashboard (FRMS) for High-Risk Occupational Settings <br>
+Assessing the Convergent Validity of the 3- and 5- Minute Psychomotor Vigilance Tasks in Occupational Settings <br>
+
+<a href="https://www.linkedin.com/in/spenceleyy/">Rob Spenceley</a> <br>
+EEG Theta Power Varies across Roles in Mixed Human-Robot Teams
+
+**Undergraduate Students:**
+
+<a href="https://www.linkedin.com/in/wanyi-chen-a058b6317/">Wanyi Chen</a> & <a href="https://www.linkedin.com/in/wenqing-ruan-a85b472b6/">Wenqing Ruan</a> <br>
+Assessing Leading LLMs for Realism in AI NPCs for XR-Based De-Escalation Training
+
+<a href="https://www.linkedin.com/in/wanyi-chen-a058b6317/">Wanyi Chen</a>
+AI-Xpert: An AI-Driven Extended Reality Training Platform - **Lecture**
+
+

@@ -1,0 +1,14 @@
+---
+layout: post
+comments: true
+title:  "PUB ALERT: Multi-Human Robot Teams EEG"
+date:   2026-02-11 23:10:54 -0500
+mathjax: false
+image: /assets/postimgs/RobT2D/HeroShortRob.jpeg
+---
+
+Congratulations to <a href="www.linkedin.com/in/spenceleyy">Rob Spenceley</a> and <a href="https://www.linkedin.com/in/ranjanamehta/">Dr. Ranjana Mehta</a> for publishing their paper on multi-human-robot teams in search and rescue environments. Through this work, they explored how the introduction of a robotic teammates impacts both teamwork, and taskwork of human members. They find that while beneficial in some aspects, robots may introduce "hidden costs" to team members, unobservable with non-neural measures. 
+
+You can read the full paper <a href="https://doi.org/10.3389/fnrgo.2026.1771753">here</a>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/RobT2D/mHR.png" class="img-responsive" width="100%" style="float: center"/>

@@ -111,6 +111,7 @@ She is the recipient of:
 </div>
 </div>
 
+<!--
 <div class="row">
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/yulim.jpg" class="img-responsive" width="100%" style="float: center"/>
@@ -121,6 +122,7 @@ She is the recipient of:
   </p>
 </div>
 </div>
+-->
 
 <div class="row">
 <div class="col-sm-2 clearfix">
@@ -146,14 +148,7 @@ She is the recipient of:
 </div>
 </div>
 
-<!-- ## Postdoctoral Research Associates -->
-
-<!-- ## Graduate Interns -->
-
-<!-- ## Masters Students -->
-
-## Interns
-
+<!--
 <div class="row">
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/jqu.jpg" class="img-responsive" width="100%" style="float: center"/>
@@ -164,6 +159,16 @@ She is the recipient of:
   </p>
 </div>
 </div>
+-->
+
+<!-- ## Postdoctoral Research Associates -->
+
+<!-- ## Graduate Interns -->
+
+<!-- ## Masters Students -->
+
+<!-- ## Interns -->
+
 
 ## Undergraduate Students
 
