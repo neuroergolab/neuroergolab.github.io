@@ -88,8 +88,44 @@ Please check out our [Google Scholar page](https://scholar.google.com/citations?
 <p><strong>Peer-reviewed Journal Publications</strong></p>
 <p>Supervised authors are underlined, <sup>1</sup>postdoctoral researchers;<sup> 2</sup>graduate students, <sup>3</sup>undergraduate students</p>
 
+<p><strong><span style="font-size: 24px;"><u>2026</u></span></strong></p>
+<ul>
+<li>Spenceley RJ and <strong> Mehta RK </strong>(2026) When robots reshape teams: neurodynamic insights into taskwork and teamwork in search and rescue. Front. Neuroergonomics 7:1771753. <a href="https://doi.org/10.3389/fnrgo.2026.1771753">https://doi.org/10.3389/fnrgo.2026.1771753</a></li>
+<li> Yadav, A., & <strong>Mehta, R. K.</strong> (2026). Neurophysiological synchrony as an emergent performance marker of multi-human–robot team effectiveness. Applied Ergonomics, 137, 104825. <a href="https://doi.org/10.1016/j.apergo.2026.104825">https://doi.org/10.1016/j.apergo.2026.104825</a></li>
+<li>Yadav, A., Pagilla, P., & <strong>Mehta, R.</strong> (2026). When Fatigue Shapes Trust: Perceptual Shifts beyond Performance in Physical Human-Robot Collaboration. Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction, 456–464. <a href="https://doi.org/10.1145/3757279.3785544">https://doi.org/10.1145/3757279.3785544</a></li>
 
-<p>2023</p>
+</ul>
+
+<p><strong><span style="font-size: 24px;"><u>2025</u></span></strong></p>
+<ul>
+<li>Nartey, D., Karthikeyan, R., Chaspari, T., & <strong>Mehta, R. K.</strong> (2025). Exploring the role of cardiac activity in forecasting cognitive fatigue with machine learning. IISE Transactions on Healthcare Systems Engineering, 15(2), 137–147. <a href="https://doi.org/10.1080/24725579.2024.2449422">https://doi.org/10.1080/24725579.2024.2449422</a></li>
+<li>Nartey, D., Park, Y., <strong>Mehta, R. K.</strong>, Payne, S. C., & Sasangohar, F. (2025). A Fatigue Risk Management System Dashboard for High-Risk Occupational Settings. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 69(1), 2068–2073. <a href="https://doi.org/10.1177/10711813251358775">https://doi.org/10.1177/10711813251358775</a></li>
+<li>Nartey, D., Payne, S. C., Sasangohar, F., & <strong>Mehta, R. K.</strong> (2025). Determination of Occupational Fatigue Detection Thresholds Using Naturalistic Fatigue Datasets. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 69(1), 2055–2060. <a href="https://doi.org/10.1177/10711813251360005">https://doi.org/10.1177/10711813251360005</a></li>
+<li>Mukherjee, T. R., Tyagi, O., & <strong>Mehta, R. K.</strong> (2025). Differences in neural strategies explain exoskeleton-related benefits in performance over time during complex visuomotor wiring tasks. Applied Ergonomics, 127, 104532. <a href="https://doi.org/10.1016/j.apergo.2025.104532">https://doi.org/10.1016/j.apergo.2025.104532</a></li>
+<li>Shanghavi, A. A., Jayasuriya, J., Cai, Y., & <strong>Mehta, R. K.</strong> (2025). Pulse Rate Variability From Wearable Wristwatches as a Surrogate for Heart Rate Variability? We Think Not Yet. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 69(1), 943–947. <a href="https://doi.org/10.1177/10711813251357929">https://doi.org/10.1177/10711813251357929</a></li>
+<li>Yadav, A., Hopko, S. K., Pagilla, P. R., & <strong>Mehta, R. K.</strong> (2025). Enhancing Trust Examinations with Neural Measures during Human–Robot Collaboration under Cognitive Fatigue. ACM Transactions on Human-Robot Interaction, 15(2), 1–27. <a href="https://doi.org/10.1145/3773905">https://doi.org/10.1145/3773905</a></li>
+</ul>
+
+<p><strong><span style="font-size: 24px;"><u>2024</u></span></strong></p>
+<ul>
+
+<li>Nartey, D., Kang, J., Sasangohar, F., & <strong>Mehta, R. K.</strong> (2024). Investigating 24- to 48-hr Forecast of Offshore Worker Alertness and Vigilance Using Multimodal Sources: A Proactive Fatigue Monitoring Paradigm. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 68(1), 18–19. <a href="https://doi.org/10.1177/10711813241273510">https://doi.org/10.1177/10711813241273510</a></li>
+<li>Hopko, S. K., Zhang, Y., Yadav, A., Pagilla, P. R., & <strong>Mehta, R. K.</strong> (2024). Brain–Behavior Relationships of Trust in Shared Space Human–Robot Collaboration. ACM Transactions on Human-Robot Interaction, 13(1), 5:1-5:23. <a href="https://doi.org/10.1145/3632149">https://doi.org/10.1145/3632149</a></li>
+<li><strong>Mehta, R. K.</strong>, Yadav, A., Murphy, R. R., & Peres, S. C. (2024). Human-Robot Team Vulnerabilities under Fatigue during sUAS Disaster Response Simulations. 2024 IEEE International Symposium on Safety Security Rescue Robotics (SSRR), 98–103. <a href="https://ieeexplore.ieee.org/abstract/document/10770061/">https://ieeexplore.ieee.org/abstract/document/10770061/</a></li>
+<li>Mukherjee, T. R., Do Vale Gunter, T. X., Manchanda, E., Tyagi, O., <strong>Mehta, R. K.</strong>, & Pagilla, P. (2024). Assessing the Effects of a Soft Passive Low-Back Exoskeleton for Emergency Medical Services. 2024 IEEE 4th International Conference on Human-Machine Systems (ICHMS), 1–4. <a href="https://doi.org/10.1109/ICHMS59971.2024.10555734">https://doi.org/10.1109/ICHMS59971.2024.10555734</a></li>
+<li>Mukherjee, T. R., Tyagi, O., Wang, J., Kang, J., & <strong>Mehta, R.</strong> (2024). Neural, Muscular, and Perceptual responses with shoulder exoskeleton use over Days (arXiv:2403.08044). arXiv. <a href="https://doi.org/10.48550/arXiv.2403.08044">https://doi.org/10.48550/arXiv.2403.08044</a></li>
+<li>Mukherjee, T., Tyagi, O., & <strong>Mehta, R. K.</strong> (2024). Passive Shoulder Exoskeleton Use Over Days During a Variable Visuomotor Wiring Task. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 68(1), 641–642. <a href="https://doi.org/10.1177/10711813241275915">https://doi.org/10.1177/10711813241275915</a></li>
+<li>Mukherjee, T., Tyagi, O., Wang, J., Kang, J., & <strong>Mehta, R.</strong> (2024). Neural, Muscular, and Perceptual responses with shoulder exoskeleton use over Days. arXiv E-Prints, arXiv-2403.</li>
+<li>Mukherjee, T., Xavier Do Vale Gunter, T., Manchanda, E., Tyagi, O., & <strong>Mehta, R. K.</strong> (2024). Neuromuscular and Movement Control Strategies With Soft Passive Low Back Exoskeleton Use During EMS-Specific Physical Agility Tests. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 68(1), 639–640. <a href="https://doi.org/10.1177/10711813241275076">https://doi.org/10.1177/10711813241275076</a></li>
+<li>Yadav, A., & <strong>Mehta, R.</strong> (2024a). Beyond Dyadic Interactions: Assessing Trust Networks in Multi-Human-Robot Teams. Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction, 1153–1157. <a href="https://doi.org/10.1145/3610978.3640576">https://doi.org/10.1145/3610978.3640576</a></li>
+<li>Yadav, A., & <strong>Mehta, R. K.</strong> (2024b). Inter-Brain Synchrony Signals Shifts in Multi-Human Robot Team Dynamics Amidst Uncertainties. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 68(1), 373–379. <a href="https://doi.org/10.1177/10711813241275510">https://doi.org/10.1177/10711813241275510</a></li>
+
+
+<li>Zhang, Y., <strong>Mehta, R. K.</strong>, & McDonald, A. D. (2024). Eye, Heart, the Brain: The Psychophysiology of Trust in AVs. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 68(1), 25–26. <a href="https://doi.org/10.1177/10711813241280937">https://doi.org/10.1177/10711813241280937</a></li>
+<li> Zhang, Y., Yadav, A., Hopko, S. K., & <strong>Mehta, R. K.</strong> (2024). In Gaze We Trust: Comparing Eye Tracking, Self-report, and Physiological Indicators of Dynamic Trust during HRI. Companion Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction, HRI Companion ’24, 1188–1193. <a href="https://doi.org/10.1145/3610978.3640649">https://doi.org/10.1145/3610978.3640649</a></li>
+</ul>
+
+<p><strong><span style="font-size: 24px;"><u>2023</u></span></strong></p>
 <ul>
 <li>
 Zhong,
