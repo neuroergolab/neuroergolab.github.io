@@ -13,6 +13,8 @@ His work extended well beyond the dissertation, spanning an internship at the Ho
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/260610aa/aakash-defense.jpg" class="img-responsive" width="100%" style="float: center"/>
 
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+
 <script>
   window.addEventListener("load", function () {
     confetti({
