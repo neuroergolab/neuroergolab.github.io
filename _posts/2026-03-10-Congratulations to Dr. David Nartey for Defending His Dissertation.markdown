@@ -12,9 +12,9 @@ image: /assets/postimgs/Defence3.jpeg
 Congratulations to <a href="https://www.linkedin.com/in/david-nartey/">Dr. David Nartey </a> for successflly defending his dissertation titled, "Computational Techniques and Physiological Mechanisms in Human Fatigue Forecasting." In his defense, Dr. Nartey discussed how Fatigue remains a critical challenge in occupational settings, where its consequences can be severe and even fatal. This dissertation focused on identifying best practices for forecasting fatigue, as well as determining relevant biomarkers and measures that can be used to assess fatigue in occupational environments. Moving forward, my research will continue to examine complex human states, with the goal of developing practical, data-driven approaches to improve safety, performance, and well-being in high-risk settings.
 
 <div style="display: flex; gap: 10px;">
-  <img src="Defence1.jpeg" width="300">
-  <img src="Defence2.jpeg" width="300">
-  <img src="Defence3.jpeg" width="300">
+  <img src="/assets/postimgs/DavidDefense/Defence1.jpeg" width="300">
+  <img src="/assets/postimgs/DavidDefense/Defence2.jpeg" width="300">
+  <img src="/assets/postimgs/DavidDefense/Defence3.jpeg" width="300">
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
