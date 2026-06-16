@@ -167,8 +167,18 @@ She is the recipient of:
 
 <!-- ## Masters Students -->
 
-<!-- ## Interns -->
+## Interns 
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/Radiya.jpg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/radiya-firdaus/">Radiya Firdaus</a> is a recent graduate of the University of Wisconsin–Madison, where he earned a B.S. in Computer Sciences and a Certificate in Game Design. His interests lie at the intersection of immersive technology, human-computer interaction, and interactive storytelling. As a Research Intern in the Neuroergonomics Lab, he contributes to the development of virtual and mixed reality applications for research and training, including the LEARNER VR first-responder training platform and exploratory XR visualization projects. His previous experience includes VR research and development at the Wisconsin Institute for Discovery and CeREF TECHNIQUE in Belgium, where he worked on immersive environments, VR healthcare applications, and advanced XR systems. He is particularly interested in how VR and MR technologies can be used to improve learning, decision-making, and human experiences.
+  </p>
+</div>
+</div>
 
 ## Undergraduate Students
 
