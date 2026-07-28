@@ -18,6 +18,9 @@ The NeuroErgonomics Lab at the University of Wisconsin-Madison Industrial and Sy
 
 **About the NeuroErgonomics Lab**: Research in the NeuroErgonomics Lab utilizes theories, methods, and techniques from physiology, biomechanics, neuroscience, engineering, and psychology to better understand, monitor, and augment human health and safety in high-risk environments (emergency response, defense, energy, space explorations).
 
+The NeuroErgonomics Lab does not currently have any open positions. Interested in working with us in the future? Keep an eye on this page, or contact Dr. Mehta directly. </p>
+
+<!--
 ## Student Intern (Full Stack Software Engineer)
 
 **Position**: Student Intern
@@ -75,6 +78,7 @@ One postdoc opportunity in human state predictions (e.g., stress, learning, fati
 * The ideal candidate will have proven talent to work independently with excellent interpersonal, communication, and mentoring skills
 
 Contact Ranjana Mehta through LinkedIn for more information! Please send your curriculum vitae, statement of research interest, and names and contact information for two references who can be contacted for letters of recommendation to Dr. Ranjana Mehta.
+-->
 
 <!-- ### Past open positions
 
