@@ -11,14 +11,16 @@ permalink: /vacancies
 
 The NeuroErgonomics Lab at the University of Wisconsin-Madison Industrial and Systems Engineering Dept seeks aspiring PhD students who want to tackle human factors challenges in **BCI, HRI, NeuroStim, Wearables, and NeuroErgonomics in the Wild**. If interested, please contact <a href="https://directory.engr.wisc.edu/ie/Faculty/Mehta_Ranjana/">Dr. Ranjana Mehta</a> with your CV and contact information of three references.
 
+<!--
 **Specific open opportunities are also listed below.**
 {:toc max_level="1" class="toc__menu"}
 1. TOC
 {:toc}
+-->
 
 **About the NeuroErgonomics Lab**: Research in the NeuroErgonomics Lab utilizes theories, methods, and techniques from physiology, biomechanics, neuroscience, engineering, and psychology to better understand, monitor, and augment human health and safety in high-risk environments (emergency response, defense, energy, space explorations).
 
-The NeuroErgonomics Lab does not currently have any open positions. Interested in working with us in the future? Keep an eye on this page, or contact Dr. Mehta directly. </p>
+The NeuroErgonomics Lab does not currently have any open positions. Interested in working with us in the future? Keep an eye on this page, or contact Dr. Mehta directly. 
 
 <!--
 ## Student Intern (Full Stack Software Engineer)

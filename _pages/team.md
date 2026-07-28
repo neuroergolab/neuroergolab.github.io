@@ -186,6 +186,7 @@ She is the recipient of:
 
 ## Undergraduate Students
 
+<!--
 <div class="row">
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/ania.jpeg" class="img-responsive" width="100%" style="float: center"/>
@@ -196,6 +197,7 @@ She is the recipient of:
   </p>
 </div>
 </div>
+-->
 
 <!--
 <div class="row">
