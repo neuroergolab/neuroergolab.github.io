@@ -2,9 +2,10 @@
 layout: post
 comments: true
 title:  "New PhD Students: Kevin & Marcus!"
-date:   2026-07-12 23:10:54 -0500
+date:   2026-08-24 
 mathjax: false
-image: /assets/postimgs/RobT2D/HeroShortRob.jpeg
+image: /assets/people/kevin.jpg
+image: /assets/people/Marcus.jpg
 ---
 
 The NeuroErgonomics lab is pleased to welcome new PhD students, <a href="https://www.linkedin.com/in/kevin-carter-925589204/">Kevin Carter</a> & <a href="https://www.linkedin.com/in/jianhui-marcus-qu-8085b7244/">Jianhui (Marcus) Qu</a>
