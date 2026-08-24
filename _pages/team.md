@@ -143,7 +143,18 @@ She is the recipient of:
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    <a href="https://www.linkedin.com/in/kevin-carter-925589204/">Kevin Carter</a> has a BS in Neuroscience and Psychology from Carthage College. His research interests include wearable devices, brain-computer interfaces, human factors and human-robot interaction..
+    <a href="https://www.linkedin.com/in/kevin-carter-925589204/">Kevin Carter</a> has a BS in Neuroscience and Psychology from Carthage College. His research interests include wearable devices, brain-computer interfaces, human factors and human-robot interaction.
+  </p>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/Marcus.jpg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/jianhui-marcus-qu-8085b7244/">Jianhui (Marcus) Qu </a> holds a BA in Economics and a minor BEng in Industrial Engineering from Tsinghua University. His research interests include human factors, human–AI interaction, affective computing, and neuroergonomics. Outside of research, he enjoys the outdoors and photography.
   </p>
 </div>
 </div>
