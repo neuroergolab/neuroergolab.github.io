@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "New PhD Students: Kevin & Marcus!"
-date:   2026-08-24 
+date:   2026-08-24 15:13:52 -0500 
 mathjax: false
 image: /assets/people/kevin.jpg
 image: /assets/people/Marcus.jpg
