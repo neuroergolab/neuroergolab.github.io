@@ -56,19 +56,6 @@ She is the recipient of:
 </div>
 </div>
 
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/yadav.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/nimrobotics/">Aakash Yadav</a> has a B.Tech. in Mechanical Engineering from the Indian Institute of Technology Tirupati. His research interests span robotics, human-robot interaction, human factors, cognition, neuroergonomics, and affective computing. Aakash works towards understanding the teaming between robots and humans to improve the combined system performance, efficiency, and safety. He loves to walk, bike, hike, and canoe in his free time.
-  </p>
-</div>
-</div>
-
-
 <div class="row">
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/tiash.jpeg" class="img-responsive" width="100%" style="float: center"/>
@@ -76,17 +63,6 @@ She is the recipient of:
 <div class="col-sm-10 clearfix">
   <p>
     <a href="https://sites.google.com/tamu.edu/tiash-rm">Tiash Rana Mukherjee</a> has a B.Tech Degree in Production Engineering from the National Institute of Technology Agartala, India. She works on evaluating human-machine interaction to understand the cognitive/physical impacts of new or existing interventions and how they affect the user in the loop. Her research interests are user perception, cognitive workload, decision-making, risk-taking, adaptation over time, and user-centric design. 
-  </p>
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/david.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/david-nartey/">David Nartey</a> has a BS in Mechanical Engineering with a minor in Chemistry from Florida Institute of Technology. He worked in the automotive industry for 3 years. His research interests include general A.I, machine learning, systems engineering, cognition, and wearable health technology. In his free time, he enjoys working out, watching animation, and traveling.
   </p>
 </div>
 </div>
@@ -183,19 +159,6 @@ She is the recipient of:
 </div>
 </div>
 
-<!--
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/jqu.jpg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/jianhui-qu-8085b7244/">Jianhui Qu</a> is a senior undergraduate at Tsinghua University, pursuing a Bachelor’s degree in Economics with a minor in Industrial Engineering. He joined the NeuroErgo Lab in June 2025 as a visiting student. His research interests include human factors and human-computer interaction, especially regarding how technology may enhance human performance in high-stakes environments.
-  </p>
-</div>
-</div>
--->
-
 <!-- ## Postdoctoral Research Associates -->
 
 <!-- ## Graduate Interns -->
@@ -204,18 +167,6 @@ She is the recipient of:
 
 <!-- ## Interns -->
 
-<!--
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/Radiya.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/radiya-firdaus/">Radiya Firdaus</a> is a recent graduate of the University of Wisconsin–Madison, where he earned a B.S. in Computer Sciences and a Certificate in Game Design. His interests lie at the intersection of immersive technology, human-computer interaction, and interactive storytelling. As a Research Intern in the Neuroergonomics Lab, he contributes to the development of virtual and mixed reality applications for research and training, including the LEARNER VR first-responder training platform and exploratory XR visualization projects. His previous experience includes VR research and development at the Wisconsin Institute for Discovery and CeREF TECHNIQUE in Belgium, where he worked on immersive environments, VR healthcare applications, and advanced XR systems. He is particularly interested in how VR and MR technologies can be used to improve learning, decision-making, and human experiences.
-  </p>
-</div>
-</div>
--->
 
 ## Undergraduate Students
 
@@ -232,40 +183,6 @@ She is the recipient of:
 </div>
 -->
 
-<!--
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/ruan.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/wenqing-ruan-a85b472b6/">Wenqing Ruan</a> is a senior undergraduate student at the University of Wisconsin–Madison pursuing a major in Computer Sciences with a minor in Mathematics. She joined the Neuroergo Lab in February 2025. Her research interests include human factors, human-computer interaction, general A.I., and data modeling. Outside of academics, she enjoys drawing and cooking.
-  </p>
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/wchen.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/wanyi-chen-a058b6317/">Wanyi Chen</a> is a senior undergraduate student in Computer Sciences at the University of Wisconsin-Madison. She joined the lab in September 2024. Her research interests encompass human-centered artificial intelligence, computational neuroscience, AI applications in medicine, and machine learning.
-  </p>
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/pater.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/karol1na-pater/">Karolina Pater</a> is a junior undergraduate student in Industrial & Systems Engineering at the University of Wisconsin-Madison. She joined the lab in August 2024. Her research interests encompass process design and improvement, supply chain optimization, and the integration of machine learning and AI technologies in human-centered systems. She is particularly interested in simulation and modeling, ergonomics and workplace design, systems integration, and production planning.
-  </p>
-</div>
-</div>
--->
 
 <!-- ## Staff -->
 
