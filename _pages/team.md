@@ -13,7 +13,59 @@ permalink: /team/
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/lab_2021.png" class="img-responsive" style="float: center" />
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/lab_2021.png" class="img-responsive" style="float: center" /> -->
+
+<div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/LabImgs/RohithDinner.JPG" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/LabImgs/AakashDfence.JPG" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/LabImgs/RohithJump.JPG" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/LabImgs/Sept2026Jump.JPG" alt="Slide 4" />
+        </div>
+    </div>
+
+<style>
+  /* Normalize carousel images: set consistent height and crop with object-fit */
+  .carousel-inner { overflow: hidden; }
+  .carousel-inner .item img {
+    width: 100%;
+    height: 396px;
+    object-fit: cover;
+    display: block;
+  }
+  @media (min-width: 768px) {
+    .carousel-inner .item img { height: 462px; }
+  }
+</style>
+
+<script>
+  (function() {
+    var carousel = document.querySelector('.carousel-inner');
+    if (!carousel) return;
+    var items = Array.prototype.slice.call(carousel.querySelectorAll('.item'));
+    if (!items.length) return;
+    var current = items.findIndex(function(i){ return i.classList.contains('active'); });
+    if (current < 0) current = 0, items[0].classList.add('active');
+    // ensure only active item is visible
+    items.forEach(function(it, idx){
+      it.style.display = it.classList.contains('active') ? 'block' : 'none';
+    });
+    var interval = 3000; // ms
+    setInterval(function(){
+      items[current].style.display = 'none';
+      items[current].classList.remove('active');
+      current = (current + 1) % items.length;
+      items[current].style.display = 'block';
+      items[current].classList.add('active');
+    }, interval);
+  })();
+</script>
 
 ## Lab Director
 
@@ -170,7 +222,7 @@ She is the recipient of:
 
 ## Undergraduate Students
 
-<!--
+
 <div class="row">
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/ania.jpeg" class="img-responsive" width="100%" style="float: center"/>
@@ -181,7 +233,7 @@ She is the recipient of:
   </p>
 </div>
 </div>
--->
+
 
 
 <!-- ## Staff -->
