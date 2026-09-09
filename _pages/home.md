@@ -31,7 +31,7 @@ Basic research in our lab focuses on understanding, monitoring, and augmenting h
             <img src="{{ site.url }}{{ site.baseurl }}/assets/LabImgs/RobotLift.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/slider/slider_2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/LabImgs/NASA.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/assets/slider/slider_3.jpg" alt="Slide 3" />
