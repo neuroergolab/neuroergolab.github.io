@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Congratulations to Aakash Yadav for successfully defending his Ph.D."
+title: "Congratulations to Dr. Aakash Yadav for successfully defending his Ph.D."
 date:   2026-06-10 15:13:52 -0500
 mathjax: false
 ---

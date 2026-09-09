@@ -1,21 +1,17 @@
 ---
 layout: post
 comments: true
-title:  "New PhD Students: Kevin & Marcus!"
+title:  "New Post-Doctoral Researcher: Dr. Aparna Joshi"
 date:   2026-08-24 12:12:52 -0500
 mathjax: false
 images: [/assets/people/kevin.jpg, /assets/people/Marcus.jpg]
 ---
-The NeuroErgonomics lab is pleased to welcome new PhD students, <a href="https://www.linkedin.com/in/kevin-carter-925589204/">Kevin Carter</a> & <a href="https://www.linkedin.com/in/jianhui-marcus-qu-8085b7244/">Jianhui (Marcus) Qu</a>
+The NeuroErgonomics lab is pleased to welcome a new post-doctoral researcher, <a href="https://www.linkedin.com/in/aparna-joshi-5b322516b/">Aparna Joshi</a>! 
 
-<a href="https://www.linkedin.com/in/kevin-carter-925589204/">Kevin Carter</a> has a BS in Neuroscience and Psychology from Carthage College. His research interests include wearable devices, brain-computer interfaces, human factors and human-robot interaction.
-
-<a href="https://www.linkedin.com/in/jianhui-marcus-qu-8085b7244/">Jianhui (Marcus) Qu</a> holds a BA in Economics and a minor BEng in Industrial Engineering from Tsinghua University. His research interests include human factors, human–AI interaction, affective computing, and neuroergonomics. Outside of research, he enjoys the outdoors and photography.
+Dr. <a href="https://www.linkedin.com/in/aparna-joshi-5b322516b/">Aparna Joshi</a> holds a PhD in Intelligent Infrastructure Engineering from Iowa State University, an M.E. in Civil Engineering from BITS Pilani, Hyderabad, and a B.Tech. in Civil Engineering from G.B. Pant University of Agriculture and Technology. Her research focuses on integrating multimodal data with AI and machine learning to understand human behavior and performance in real-world environments, including applications to driving and transportation safety. With experience in both academia and industry, including at WSP, Dr. Joshi brings interdisciplinary expertise in intelligent transportation, human-centered engineering, and data-driven modeling. Outside of work, she enjoys singing, playing guitar and percussion, and has a knack for picking up new interests along the way.
 
 <p align="center">
-  <img src="/assets/people/kevin.jpg" width="45%" />
-  &nbsp; &nbsp;
-  <img src="/assets/people/Marcus.jpg" width="45%" />
+  <img src="/assets/people/Aparna.png" width="45%" />
 </p>
 
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
