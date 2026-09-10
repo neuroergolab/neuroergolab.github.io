@@ -40,7 +40,7 @@ Basic research in our lab focuses on understanding, monitoring, and augmenting h
             <img src="{{ site.url }}{{ site.baseurl }}/assets/slider/slider_4.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/slider/slider_5.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/LabImgs/LEARNER.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/assets/slider/slider_6.jpg" alt="Slide 6" />
