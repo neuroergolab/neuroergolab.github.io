@@ -91,3 +91,19 @@ firstp {
     margin-right: 30px;
 }
 
+/* Reserve the same responsive frame for every home slideshow image. */
+#homeid #carousel .carousel-inner {
+    aspect-ratio: 4 / 3;
+    background-color: #222;
+}
+
+#homeid #carousel .item {
+    height: 100%;
+}
+
+#homeid #carousel .item > img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 0;
+}
