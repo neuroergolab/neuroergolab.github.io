@@ -211,6 +211,17 @@ She is the recipient of:
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/yadav.jpeg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/nimrobotics/">Aakash Yadav</a> received his Ph.D. from Industrial and Systems Engineering at UW-Madison and has a B.Tech. in Mechanical Engineering from the Indian Institute of Technology Tirupati. His research interests span robotics, human-robot interaction, human factors, cognition, neuroergonomics, and affective computing. Aakash works towards understanding the teaming between robots and humans to improve the combined system performance, efficiency, and safety. He loves to walk, bike, hike, and canoe in his free time.
+  </p>
+</div>
+</div>
+
 <!-- ## Postdoctoral Research Associates -->
 
 <!-- ## Graduate Interns -->
