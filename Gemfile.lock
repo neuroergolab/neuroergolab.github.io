@@ -77,4 +77,4 @@ DEPENDENCIES
   logger (~> 1.7)
 
 BUNDLED WITH
-   2.4.6
+  4.0.20

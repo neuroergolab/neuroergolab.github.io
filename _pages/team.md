@@ -93,6 +93,30 @@ She is the recipient of:
 </div>
 </div>
 
+## Research Scientists / Postdoctoral Research Associates
+
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/Aparna.png" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/aparna-joshi-5b322516b/">Aparna Joshi</a> holds a PhD in Intelligent Infrastructure Engineering from Iowa State University, an M.E. in Civil Engineering from BITS Pilani, Hyderabad, and a B.Tech. in Civil Engineering from G.B. Pant University of Agriculture and Technology. Her research focuses on integrating multimodal data with AI and machine learning to understand human behavior and performance in real-world environments, including applications to driving and transportation safety. With experience in both academia and industry, including at WSP, Dr. Joshi brings interdisciplinary expertise in intelligent transportation, human-centered engineering, and data-driven modeling. Outside of work, she enjoys singing, playing guitar and percussion, and has a knack for picking up new interests along the way.
+  </p>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/yadav.jpeg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/nimrobotics/">Aakash Yadav</a> received his Ph.D. from Industrial and Systems Engineering at UW-Madison and has a B.Tech. in Mechanical Engineering from the Indian Institute of Technology Tirupati. His research interests span robotics, human-robot interaction, human factors, cognition, neuroergonomics, and affective computing. Aakash works towards understanding the teaming between robots and humans to improve the combined system performance, efficiency, and safety. He loves to walk, bike, hike, and canoe in his free time.
+  </p>
+</div>
+</div>
+
 
 ## Ph.D. Students
 
@@ -141,18 +165,6 @@ She is the recipient of:
 </div>
 </div>
 
-<!--
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/yulim.jpg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/yulim-kim-17952930a/">Yulim Kim</a> has a BA in Quantitative Risk Management and an MS in Industrial Engineering from Yonsei University, South Korea. Her research interests span human factors, human-AI interaction, robotics, cognition, and neuroergonomics. In her free time, she enjoys walking, listening to music, and traveling.
-  </p>
-</div>
-</div>
--->
 
 <div class="row">
 <div class="col-sm-2 clearfix">
@@ -187,62 +199,47 @@ She is the recipient of:
 </div>
 </div>
 
-## Research Scientists / Postdoctoral Research Associates
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/Aparna.png" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/aparna-joshi-5b322516b/">Aparna Joshi</a> holds a PhD in Intelligent Infrastructure Engineering from Iowa State University, an M.E. in Civil Engineering from BITS Pilani, Hyderabad, and a B.Tech. in Civil Engineering from G.B. Pant University of Agriculture and Technology. Her research focuses on integrating multimodal data with AI and machine learning to understand human behavior and performance in real-world environments, including applications to driving and transportation safety. With experience in both academia and industry, including at WSP, Dr. Joshi brings interdisciplinary expertise in intelligent transportation, human-centered engineering, and data-driven modeling. Outside of work, she enjoys singing, playing guitar and percussion, and has a knack for picking up new interests along the way.
-  </p>
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/yadav.jpeg" class="img-responsive" width="100%" style="float: center"/>
-</div>
-<div class="col-sm-10 clearfix">
-  <p>
-    <a href="https://www.linkedin.com/in/nimrobotics/">Aakash Yadav</a> received his Ph.D. from Industrial and Systems Engineering at UW-Madison and has a B.Tech. in Mechanical Engineering from the Indian Institute of Technology Tirupati. His research interests span robotics, human-robot interaction, human factors, cognition, neuroergonomics, and affective computing. Aakash works towards understanding the teaming between robots and humans to improve the combined system performance, efficiency, and safety. He loves to walk, bike, hike, and canoe in his free time.
-  </p>
-</div>
-</div>
-
-<!-- ## Postdoctoral Research Associates -->
-
-<!-- ## Graduate Interns -->
-
-<!-- ## Masters Students -->
-
-<!-- ## Interns -->
-
-
 ## Undergraduate Students
 
-<!---
+
 <div class="row">
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/people/ania.jpeg" class="img-responsive" width="100%" style="float: center"/>
 </div>
 <div class="col-sm-10 clearfix">
   <p>
-    <a href="https://www.linkedin.com/in/aniagugulski/">Ania Gugulski</a> BIO.
+    <a href="https://www.linkedin.com/in/aniagugulski/">Ania Gugulski</a>
   </p>
 </div>
 </div>
--->>
 
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/sahana.jpeg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/sahanaganesh-wisc/">Sahana Ganesh</a> is a sophomore studying Industrial Engineering and Computer Science. Her research interests include human factors, artificial intelligence, human AI interaction, cognition, and data driven systems.
+  </p>
+</div>
+</div>
 
-<!-- ## Staff -->
+<div class="row">
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/people/mandler.jpg" class="img-responsive" width="100%" style="float: center"/>
+</div>
+<div class="col-sm-10 clearfix">
+  <p>
+    <a href="https://www.linkedin.com/in/sahanaganesh-wisc/">Timothy Mandler</a>
+  </p>
+</div>
+</div>
 
 
 
 ## Alumni
 
-<h3>Postdoctoral Researchers</h3>
+<h3>Postdoctoral Researchers/Research Scientists</h3>
 {% for member in site.data.alumni_pdoc %}
 <a href="{{ member.web }}">{{ member.name }}</a>, {{ member.degree }}, {{ member.info }} <br>
 {% endfor %}
