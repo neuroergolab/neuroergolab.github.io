@@ -1,0 +1,62 @@
+---
+layout: post
+comments: true
+title: "NeuroErgonomics Lab presents at HFES 2026"
+date:   2026-10-28 10:00:00 -0500
+mathjax: false
+---
+
+Members of the NeuroErgonomics Lab traveled to the 2026 Human Factors and Ergonomics Society (HFES) Annual Meeting to share their latest research, spanning fatigue modeling, balance and sensorimotor control, team processes in emergency operations, human-robot interaction, and affective computing in virtual training. Here is a look at what the team presented.
+
+### Yuxin Cai
+
+[Yuxin Cai]() presented two research projects focused on advancing fatigue assessment and management in safety-critical work environments.
+
+The first presentation, **"Modeling Operational Fatigue in Emergency Medical Services Providers Under Real-World Conditions Using Wearable Sensors and Machine Learning,"** explored the use of multimodal wearable and contextual data to predict fatigue among EMS providers and identify robust predictors across machine learning models.
+
+The second presentation, **"A Knowledge-Based Recommender System for Personalized Fatigue Mitigation Strategies in Offshore Workers,"** introduced an evidence- and expert-informed decision-support system that provides personalized fatigue mitigation recommendations based on workers' fatigue conditions. This work has been published as a conference proceeding: [https://doi.org/10.1177/10711813261498763](https://doi.org/10.1177/10711813261498763).
+
+Together, these studies highlight the potential of data-driven and human-centered approaches to support fatigue monitoring, inform intervention strategies, and improve worker health and safety in high-risk occupations.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-1.jpeg" class="img-responsive" width="100%" style="float: center"/>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-2.jpeg" class="img-responsive" width="100%" style="float: center"/>
+
+### Jeevan Jayasuriya
+
+[Jeevan Jayasuriya]() presented two studies that explored different aspects of human balance and sensorimotor control.
+
+**Combined effects of fatigue on postural control.** Mental fatigue, physical fatigue, and sleep loss often coexist in real-world settings, yet their combined effects on postural control remain poorly understood. The findings suggest that individuals may be particularly vulnerable to postural instability when physical fatigue and sleep loss coincide, with implications for safety in industrial, healthcare, and emergency response settings.
+
+**Predicting gait instability using multimodal wearable sensors in spaceflight analogs.** Astronauts may experience sensorimotor disturbances following landing, increasing the risk of gait instability. This study investigated whether wearable sensor data and machine learning could predict instability before its onset under simulated vestibular disturbances. Trunk and head motion, together with muscle activity, provided the strongest predictive information. Watch a [3D simulation of real-time prediction (+1 s) using the TCN model](https://youtu.be/3paX5J4QHCg):
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1em;">
+  <iframe src="https://www.youtube.com/embed/3paX5J4QHCg" title="3D simulation on real-time prediction (+1s) using the TCN model" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<a href="https://youtu.be/3paX5J4QHCg"><img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-3.jpg" class="img-responsive" width="100%" style="float: center" alt="3D simulation on real-time prediction (+1s) using the TCN model"/></a>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-4.jpg" class="img-responsive" width="56%" style="display: inline-block; vertical-align: top"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-5.jpg" class="img-responsive" width="42%" style="display: inline-block; vertical-align: top"/>
+
+### Rob
+
+[Rob]() presented his work with Dr. Aakash Yadav and Dr. Ranjana Mehta on measuring physical team processes in emergency operations centers (EOCs). Emergency operations centers bring together personnel from many agencies who must coordinate under time pressure, and much of that coordination happens physically: where people stand, who they move toward, and how they cluster around shared displays and decision makers. This work examines how these physical team processes can be captured objectively, offering a new lens on teamwork in emergency management beyond traditional observation and self-report. The work has been published as a proceedings paper: [https://doi.org/10.1177/10711813261498791](https://doi.org/10.1177/10711813261498791).
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-6.jpeg" class="img-responsive" width="100%" style="float: center"/>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-7.jpeg" class="img-responsive" width="100%" style="float: center"/>
+
+Rob also presented a poster on motor readiness in physical human-robot interaction.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-8.jpeg" class="img-responsive" width="60%" style="display: block; margin: 0 auto"/>
+
+### Jianhui (Marcus) Qu
+
+[Jianhui (Marcus) Qu]() presented his study exploring the use of computational emotion analysis to characterize affective expression in LLM-driven virtual agents, and examining the correspondence between computational and self-reported measures of human affect in simulated training interactions.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-9.jpeg" class="img-responsive" width="100%" style="float: center"/>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/postimgs/261028hf/hfes26-10.jpeg" class="img-responsive" width="100%" style="float: center"/>
+
+The NeuroErgonomics Lab is proud of everyone who presented at HFES 2026, and we thank our collaborators and the HFES community for a great meeting!
